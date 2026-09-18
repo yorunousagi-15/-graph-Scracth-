@@ -1,6 +1,6 @@
 # Math Grapher V4
 
-数学関数グラファー V4。GitHub Pagesで公開できます。
+数学関数グラファー V4。
 
 ## 主な機能
 - 複数の実関数 `y=f(x)`
