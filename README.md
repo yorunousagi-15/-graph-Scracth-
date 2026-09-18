@@ -16,10 +16,3 @@
 - ダークモード
 - Plotlyのズーム・パン
 
-## GitHub Pages
-`index.html`, `style.css`, `script.js`, `README.md` をリポジトリ直下にアップロードし、
-Settings → Pages → Deploy from a branch → `main` → `/ (root)` にします。
-
-## 注意
-V4のζ関数表示は、交代級数を使った数値近似です。数学的な証明用の厳密計算器ではありません。
-外部CDNの math.js と Plotly を使用するため、公開サイトの実行時にはインターネット接続が必要です。
